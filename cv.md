@@ -29,4 +29,6 @@ task1('Вася', 20);
 ```
 #### Education
     : Tambov State Technical University
-    
+***
+##### Languages:
+    language level A2
